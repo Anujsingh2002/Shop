@@ -13,7 +13,7 @@ const BannerImg = {
 const Subscribe = () => {
   return (
     <div
-      data-aos="zoom-in"
+    
       className="mb-20 bg-gray-100 dark:bg-gray-950 dark:text-white duration-200 "
       style={BannerImg}
     >
