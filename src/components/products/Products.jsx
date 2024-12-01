@@ -51,7 +51,7 @@ const ProductsData = [
 
 const Products = () => {
   return (
-    <div className="mt-14 mb-12">
+    <div className="mt-14 mb-12 dark:bg-gray-950 dark:text-white duration-200">
       <div className="container">
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
